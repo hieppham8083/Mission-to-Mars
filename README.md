@@ -3,7 +3,7 @@
 
 ## Challenge
 - Automate web scraping to extract data of Mission to Mars. Refer to [scraping.py](../main/apps/scraping.py)
-- Make a Mongo database to dislaoythe full-resolution image URL and title for each hemisphere image.
+- Make a Mongo database to display the full-resolution image URL and title for each hemisphere image.
 - Created with Flask: Refer to [app.py](../main/apps/app.py)
 
 ## Results
